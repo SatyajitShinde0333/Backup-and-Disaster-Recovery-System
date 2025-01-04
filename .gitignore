@@ -1,0 +1,6 @@
+*.log
+*.tar.gz
+*.sql.gz
+actions/*
+.settings.conf
+
