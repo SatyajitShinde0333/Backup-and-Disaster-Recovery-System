@@ -4,7 +4,7 @@ This is a highly configurable Bash script to backup MySQL databases, folders, zi
 
 To download the code use:
 
-```git clone https://github.com/RepositoriumCodice/BackupToS3```
+```git clone https://github.com/SatyajitShinde0333/Backup-and-Disaster-Recovery-System.git```
 
 This tool can also: 
 - run pre/post scripts before backing a MySQL database or folder
@@ -198,8 +198,3 @@ upload: backups/SomeOtherFolder.2021-03-13-15-43.tar.gz to s3://backups/backups/
   ------
 ````  
 
-# Want to connect?
-
-Feel free to contact me on [Twitter](https://twitter.com/OnlineAnto), [DEV Community](https://dev.to/antoonline/) or [LinkedIn](https://www.linkedin.com/in/anto-online) if you have any questions or suggestions.
-
-Or just visit my [website](https://anto.online) to see what I do.
